@@ -1,11 +1,9 @@
 {
-  "name": "@krisana/test-package-2",
+  "name": "krisana-test-package-2",
   "version": "1.0.0",
   "description": "A nice greeter 2",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-
-
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
